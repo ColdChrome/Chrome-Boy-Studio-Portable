@@ -1,0 +1,6 @@
+{
+  "what": "A playful, chaotic groovebox on the FM1's DX7-style FM engine. Turn ALGORITHM for new generated patterns on any track, or pull random chord progressions in SEQ until one lands. Drums with 808 and 909 modes, arpeggiator, FX rack and stem export. Still experimental.",
+  "author": "Chrome Boy",
+  "kinds": ["groove"],
+  "image": "docs/card.png"
+}
