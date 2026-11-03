@@ -27,6 +27,8 @@ Chrome Boy turns the FM1 into a pocket groovebox that is playful, a little chaot
 
 You can play Chrome Boy in a browser before installing it on hardware, using the FM-1 emulator.
 
+www.coldchrome.la/pages/chrome-boy-studio-portable-emulator
+
 - Open the Chrome Boy emulator page and click **Start**.
 - Or open the [FM-1 Emulator](https://github.com/joakimeriksson/fm1-emu) and drop the `.fwsc` from the [Releases](../../releases) page onto it.
 
