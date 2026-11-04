@@ -7,8 +7,7 @@ Chrome Boy turns the FM1 into a pocket groovebox that is playful, a little chaot
 
 > ⚠️ **Experimental firmware.** Expect rough edges, and back up your FM1 before installing. We're still working on bug fixes, quality-of-life features, better export and more MIDI options.
 
-KNOWN BUGS:
-Applying a new variation on one track will change other tracks too. Planning to make this a toggle in final release.
+
 
 ---
 
@@ -144,6 +143,7 @@ Each stem starts after a 4-second lead-in, plays one loop, and stops on the barl
 Chrome Boy is still in development. These issues are known and being worked on:
 
 **Bugs**
+Applying a new variation on one track will change other tracks too. Planning to make this a toggle in final release.
 - **The export (save stems) screen stays on after the export finishes.** The stems are recorded correctly, but the screen doesn't close by itself. Try pressing **HOME** or another page button to leave it. If it won't clear, save first if you can, then power-cycle the FM1. Your saved projects aren't affected.
 - **The mixer has visual glitches.** Meters, labels or values on the MIXER page can draw incorrectly or overlap. The levels themselves still work. The fix is in progress.
 - **Quick button presses are sometimes missed in the emulator.** Hold the button for a moment. This happens in the emulator only.
