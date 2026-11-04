@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="card" src="https://github.com/user-attachments/assets/174b4bfd-678b-46ee-ac38-12a2a003e6c8" />
 # Chrome Boy Studio Portable v0.9
 
 **Custom firmware for the M-VAVE FM1** · firmware build 3.10.4
