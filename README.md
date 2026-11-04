@@ -1,11 +1,14 @@
 <img width="512" height="512" alt="card" src="https://github.com/user-attachments/assets/174b4bfd-678b-46ee-ac38-12a2a003e6c8" />
 # Chrome Boy Studio Portable v0.9
 
-**Custom firmware for the M-VAVE FM1** · firmware build 3.10.4
+**Custom firmware for the M-VAVE FM1** 
 
 Chrome Boy turns the FM1 into a pocket groovebox that is playful, a little chaotic and still experimental. It boots straight into a pattern. Turn one knob to get new grooves, or pull random chord progressions until something sticks.
 
 > ⚠️ **Experimental firmware.** Expect rough edges, and back up your FM1 before installing. We're still working on bug fixes, quality-of-life features, better export and more MIDI options.
+
+KNOWN BUGS:
+Applying a new variation on one track will change other tracks too. Planning to make this a toggle in final release.
 
 ---
 
